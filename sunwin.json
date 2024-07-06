@@ -1,0 +1,115 @@
+// https://api.hitgo88.ai/paygate?command=fetchAllCashoutItems
+{
+  "data": {
+    "usdtVndRate": 24000.0,
+    "bankCaRate": 1.0,
+    "banks": [
+      {
+        "bankCode": "VCB",
+        "accNumber": "1046704038",
+        "cardName": "LUONG LAM MINH",
+        "bankName": "Vietcombank"
+      },
+      {
+        "bankCode": "MBB",
+        "accNumber": "6660168188888",
+        "cardName": "LUONG LAM MINH",
+        "bankName": "MBBank"
+      },
+      {
+        "bankCode": "BIDV",
+        "accNumber": "8812132698",
+        "cardName": "LUONG LAM MINH",
+        "bankName": "BIDV"
+      },
+      {
+        "bankCode": "VTB",
+        "accNumber": "103881843344",
+        "cardName": "CAO VAN MANH",
+        "bankName": "VietinBank"
+      },
+      {
+        "bankCode": "ACB",
+        "accNumber": "40159917",
+        "cardName": "LUONG LAM MINH",
+        "bankName": "A Chau Bank ACB"
+      }
+    ],
+    "caBanks": [
+      { "name": "VIETCOMBANK", "id": 8 },
+      { "name": "VIETINBANK", "id": 3 },
+      { "name": "TECHCOMBANK", "id": 29 },
+      { "name": "BIDV", "id": 5 },
+      { "name": "AGRIBANK", "id": 2 },
+      { "name": "SACOMBANK", "id": 1 },
+      { "name": "ACB", "id": 4 },
+      { "name": "MB", "id": 6 },
+      { "name": "TPBANK", "id": 7 },
+      { "name": "SHBVN", "id": 21 },
+      { "name": "VIB", "id": 17 },
+      { "name": "VPBANK", "id": 18 },
+      { "name": "SHB", "id": 16 },
+      { "name": "OCB", "id": 15 },
+      { "name": "EXIMBANK", "id": 26 },
+      { "name": "BAOVIET", "id": 33 },
+      { "name": "VIETCAPITAL", "id": 34 },
+      { "name": "SCB", "id": 13 },
+      { "name": "VRB", "id": 35 },
+      { "name": "ABBANK", "id": 22 },
+      { "name": "PVCOMBANK", "id": 19 },
+      { "name": "OCEANBANK", "id": 20 },
+      { "name": "NAMABANK", "id": 25 },
+      { "name": "HDBANK", "id": 36 },
+      { "name": "VIETBANK", "id": 27 },
+      { "name": "PB", "id": 37 },
+      { "name": "HLB", "id": 38 },
+      { "name": "PGB", "id": 39 },
+      { "name": "COB", "id": 40 },
+      { "name": "CIMB", "id": 9 },
+      { "name": "NCB", "id": 41 },
+      { "name": "IDB", "id": 42 },
+      { "name": "DONGABANK", "id": 12 },
+      { "name": "GPBANK", "id": 43 },
+      { "name": "BACABANK", "id": 44 },
+      { "name": "VAB", "id": 24 },
+      { "name": "SAIGONBANK", "id": 11 },
+      { "name": "MSB", "id": 23 },
+      { "name": "LIENVIET", "id": 30 },
+      { "name": "KIENLONGBANK", "id": 14 },
+      { "name": "IBKHN", "id": 45 },
+      { "name": "WRB", "id": 46 },
+      { "name": "SEABANK", "id": 47 },
+      { "name": "UOB", "id": 48 },
+      { "name": "CAKE", "id": 49 },
+      { "name": "DBS", "id": 58 },
+      { "name": "KBHN", "id": 56 },
+      { "name": "KBHCM", "id": 55 },
+      { "name": "NHBHN", "id": 53 },
+      { "name": "HSBC", "id": 32 },
+      { "name": "SCVN", "id": 52 },
+      { "name": "Ubank", "id": 50 },
+      { "name": "VBSP", "id": 65 },
+      { "name": "KEBHANAHN", "id": 62 },
+      { "name": "CBB", "id": 57 },
+      { "name": "UMEE_KIENLONG", "id": 64 },
+      { "name": "KBank", "id": 51 }
+    ],
+    "zaloAmounts": [
+      500000, 1000000, 2000000, 3000000, 5000000, 10000000, 20000000
+    ],
+    "bankPrefix": "",
+    "zaloRate": 1.0,
+    "usdtNws": [],
+    "bankAmounts": [
+      500000, 1000000, 5000000, 20000000, 50000000, 100000000, 500000000
+    ],
+    "momoAmounts": [
+      500000, 1000000, 2000000, 3000000, 5000000, 10000000, 20000000
+    ],
+    "momoRate": 1.0,
+    "bankRate": 1.0,
+    "momoCaRate": 1.0,
+    "zaloCaRate": 1.0
+  },
+  "status": 0
+}
